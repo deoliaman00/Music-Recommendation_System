@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-import import_ipynb
+##import import_ipynb
 import Recommenders as Recommenders
 import code as cd
 
